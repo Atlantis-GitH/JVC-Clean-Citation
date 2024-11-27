@@ -10,3 +10,5 @@
 
 <a href="https://www.tampermonkey.net/index.php#download" target="_blank"><img src="https://www.tampermonkey.net/favicon.ico" alt="TamperMonkey" width="20"/> TamperMonkey</a> (version Legacy pour kiwi)
 
+<a href="https://apps.apple.com/fr/app/userscripts/id1463298887" target="_blank"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/21/66/b42166ec-dd28-21ef-b6a1-dc75715c3452/AppIcon-0-0-85-220-0-4-0-2x.png/46x0w.webp" alt="userscripts" width="20"/> Userscripts (IOS)</a>
+
