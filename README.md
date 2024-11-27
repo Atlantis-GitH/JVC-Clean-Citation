@@ -8,5 +8,5 @@
 
 **Tampermoney ou similaire requis pour ce script.**
 
-<a href="https://www.tampermonkey.net/index.php#download" target="_blank"><img src="https://www.tampermonkey.net/favicon.ico" alt="TamperMonkey" width="20"/> TamperMonkey</a> (version legacy pour kiwi)
+<a href="https://www.tampermonkey.net/index.php#download" target="_blank"><img src="https://www.tampermonkey.net/favicon.ico" alt="TamperMonkey" width="20"/> TamperMonkey</a> (version Legacy pour kiwi)
 
