@@ -2,7 +2,7 @@
 
 **Permet d'alleger les citations JVC :**
 
-[![Installer / Mettre à jour Script](https://img.shields.io/badge/Installer%20/%20Mettre%20%C3%A0%20jour%20le%20Script-Green?style=for-the-badge&color=1E971E)](https://greasyfork.org/fr/scripts/478751) ou sur <a href="https://jvscript.fr/script/jvcforumrollback" target="_blank">JVScript</a>
+[![Installer / Mettre à jour Script](https://img.shields.io/badge/Installer%20/%20Mettre%20%C3%A0%20jour%20le%20Script-Green?style=for-the-badge&color=1E971E)](https://greasyfork.org/fr/scripts/478751) ou sur <a href="https://jvscript.fr/script/reduire-taille-citation" target="_blank">JVScript</a>
 
 #
 
