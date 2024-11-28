@@ -1,4 +1,4 @@
-# JVC-Clean-Citation
+# JVC Clean Citation
 
 **Permet d'alleger les citations JVC :**
 
