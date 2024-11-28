@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JVC Clean Citation
 // @namespace    JVC Clean Citation
-// @version      1.3.0
+// @version      1.3.1
 // @description  Reduire Cascade citations imbriquées (Reduit taille message / Evite les msg d'erreur)
 // @author       Atlantis
 // @icon         https://images.emojiterra.com/google/android-11/512px/1f4ac.png
@@ -31,7 +31,7 @@ function createboutonetwo12() {
     activateButton.setAttribute("id", "cite-one");
     activateButton.setAttribute("title", "Réduire au message Cité");
     activateButton.addEventListener("click", function() {
-        erasecitation(effacerLignesAvecMotif);
+        erasecitation(effacersololigne);
     });
 
 
@@ -45,7 +45,7 @@ function createboutonetwo12() {
     activateButton2.setAttribute("id", "cite-two");
     activateButton2.setAttribute("title", "Réduire au message Cité + Citation imbriqué");
     activateButton2.addEventListener("click", function() {
-        erasecitation(effacerLignesAvecMotifmulti);
+        erasecitation(effacermultiligne);
     });
 
     // Ajout des boutons à la suite dans le même groupe de boutons
@@ -56,19 +56,19 @@ function createboutonetwo12() {
 
 
 
-function effacerLignesAvecMotif(texte) {
+function effacersololigne(texte) {
     var expression = /^(\s*>>|\s*> >).*\n?/gm;
     texte = texte.replace(expression, '');
     return texte;
 }
 
-function effacerLignesAvecMotifmulti(texte) {
+function effacermultiligne(texte) {
     var expression = /^(\s*>>>|\s*> >>|\s*>> >|\s*> > >).*\n?/gm;
     texte = texte.replace(expression, '');
     return texte;
 }
 
-function erasecitation(genericfunction) {
+function erasecitation(invaluefunction) {
     let messageP;
     if (window.location.href.indexOf("jeuxvideo.com/messages-prives/") > -1) {
         messageP = document.getElementById("message");
@@ -78,7 +78,7 @@ function erasecitation(genericfunction) {
         messageP = document.getElementById("message_topic");
     }
     var text = messageP.value;
-    text = genericfunction(text);
+    text = invaluefunction(text);
     messageP.value = text;
     //simule_changement_zone_texte
     let changeEvent = new Event('change');
