@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JVC Clean Citation
 // @namespace    JVC Clean Citation
-// @version      1.2.5
+// @version      1.3.3
 // @description  Reduire Cascade citations imbriquées (Reduit taille message / Evite les msg d'erreur)
 // @author       Atlantis
 // @icon         https://images.emojiterra.com/google/android-11/512px/1f4ac.png
