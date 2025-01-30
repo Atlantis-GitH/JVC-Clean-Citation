@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JVC Clean Citation
 // @namespace    JVC Clean Citation
-// @version      1.3.4
+// @version      1.3.5
 // @description  Reduire Cascade citations imbriquées (Reduit taille message / Evite les msg d'erreur)
 // @author       Atlantis
 // @icon         https://images.emojiterra.com/google/android-11/128px/1f4ac.png
@@ -9,7 +9,8 @@
 // @match        *://www.jeuxvideo.com/forums/1-*
 // @match        *://www.jeuxvideo.com/forums/0-*
 // @match        *://www.jeuxvideo.com/recherche/forums/0-*
-// @match        *://www.jeuxvideo.com/messages-prives/*
+// @match        *://www.jeuxvideo.com/messages-prives/nouveau.php*
+// @match        *://www.jeuxvideo.com/messages-prives/message.php*
 // @license      MIT
 // ==/UserScript==
 
