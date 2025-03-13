@@ -8,7 +8,7 @@
 
 **Tampermoney ou similaire requis pour ce script.**
 
-<a href="https://www.tampermonkey.net/index.php#download" target="_blank">TamperMonkey</a> (PC / [Firefox Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox) / [Edge Android](https://play.google.com/store/apps/details?id=com.microsoft.emmx) ) MV2 + MV3
+<a href="https://www.tampermonkey.net/index.php#download" target="_blank">TamperMonkey</a> (PC / [Firefox Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox) / [Edge Android](https://play.google.com/store/apps/details?id=com.microsoft.emmx) )
 
 <a href="https://addons.mozilla.org/fr/firefox/addon/violentmonkey/" target="_blank"><img src="https://violentmonkey.github.io/_astro/vm.C4h557K-.png" alt="ViolentMonkey" width="20"/> ViolentMonkey</a> (PC Firefox / [Firefox Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox) ) MV2
 
